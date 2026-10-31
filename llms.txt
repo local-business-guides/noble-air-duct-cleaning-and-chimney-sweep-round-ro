@@ -15,9 +15,9 @@
 - Dryer vent cleaning service
 
 ## Guides
+- [chimney sweep Round Rock homeowner guide](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/chimney-sweep-round-rock/): Plan a cleaner, more orderly fireplace with chimney sweep Round Rock service from a local team.
 - [Air Duct Cleaning Service for Round Rock Homes](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/air-duct-cleaning-service/): Air duct cleaning service in Round Rock to help address buildup and support cleaner airflow at home.
 - [Dryer Vent Cleaning Service Round Rock Homeowners Can Book](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/dryer-vent-cleaning-service-round-rock/): Dryer vent cleaning service Round Rock homeowners can arrange to clear lint buildup and help their dryer vent properly.
-- [chimney sweep Round Rock homeowner guide](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/chimney-sweep-round-rock/): Plan a cleaner, more orderly fireplace with chimney sweep Round Rock service from a local team.
 - [air duct cleaning service Round Rock homeowner guide](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/air-duct-cleaning-service-round-rock/): Get practical guidance on cleaner ductwork with an air duct cleaning service in Round Rock.
 - [Chimney services Round Rock homeowners can plan for](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/chimney-services-round-rock/): Chimney services Round Rock homeowners can ask about, with practical steps to prepare your fireplace and home.
 - [How to choose the best air duct cleaning service](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/best-air-duct-cleaning-service/): Find the best air duct cleaning service for your home, with practical questions to ask in Round Rock, TX.
@@ -26,6 +26,9 @@
 - [Choosing a Top Rated Air Duct Cleaning Service](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/top-rated-air-duct-cleaning-service/): Find a top rated air duct cleaning service for cleaner indoor air in Round Rock, TX. Learn what to ask before scheduling.
 - [Planning for an Affordable Air Duct Cleaning Service](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/affordable-air-duct-cleaning-service/): Plan an affordable air duct cleaning service that fits your needs in Round Rock, TX. Know what to ask and prepare before booking.
 
+## Newsroom
+- [Noble Air Duct Cleaning & Chimney Sweep Shares Round Rock Chimney Guide](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/news/2026-10-31-noble-air-duct-cleaning-chimney-sweep-shares-round/): Noble Air Duct Cleaning & Chimney Sweep has published a guide, video and podcast content about chimney sweep services in Round Rock. (2026-10-31)
+
 ## Pages
 - [Air Duct Cleaning Service in Round Rock, Texas](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/): Breathe easier with air duct and chimney care from a local Round Rock service team. Call +1512-546-6939.
 - [About Noble Air Duct Cleaning & Chimney Sweep](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/about/): About Noble Air Duct Cleaning & Chimney Sweep, Round Rock.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/news/rss.xml)
 - [Main resource site](https://noble-round-rock-home-care.localwebsites.chatgpt.site)

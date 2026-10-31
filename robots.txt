@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/sitemap.xml
+Sitemap: https://local-business-guides.github.io/noble-air-duct-cleaning-and-chimney-sweep-round-ro/news-sitemap.xml
